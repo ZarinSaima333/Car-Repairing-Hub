@@ -4,13 +4,43 @@
 This app will make locating a trustworthy and reliable vehicle repair facility easier. This software provides every facility a car owner might ever need for auto repair. Additionally, because this software provides home service, which saves the customer a ton of time, individuals are more likely to rely on this online service. It will bring in more clients, making this a lucrative enterprise.
 <br>
 <br>
-<h6>Project Scenario:</h6>
-<br>
-There are three types of users in this website, Car repairing Hub. The primary actors are customers and shop owners. And the secondary actor is the system here. Firsty, a user can log into this website using email id and password or he/she can log in using  Google,fb or twitter account. If the user is not signed up there he/she can create an account.The  customer registration is free on the other hand, the shop owner has to pay 5000 BDT to get registered and has to give 10% commission to the system on each work . 
-<br>
-Now, after the login procedure, customers can search nearby automobile shops from the service page. Also, they can search by vehicle type or desired location. Customers can book a slot from the service page. Also, each repair shop shows their price chart so that customers can have a good idea about the costing. Customers can choose the type of service they want, they can choose to take their vehicle from a desired location or he/she can take their car to the repair shop. If the customer has any suggestion or complaint they can drop a text on the support page .
-<br>
-Therefore, the system gives notification to the customer if they book a slot. Also, the shop owner also gets a notification when a customer books a repair slot. The fake customer and shop owners are removed from the website and users who are connected with them are notified.
+## Project Scenario:
+
+This project entails the development of a website, Car Repairing Hub, aimed at facilitating interactions between customers and automobile repair shops. The platform caters to three primary actors: customers, shop owners, and the system.
+
+### Actors:
+1. **Customers**: Users in need of car repair services.
+2. **Shop Owners**: Individuals operating automobile repair shops.
+3. **System**: The platform itself, managing interactions between customers and shop owners.
+
+### Functionality Overview:
+
+1. **User Authentication and Registration**:
+   - Users can log in using email/password or via social media accounts (Google, Facebook, Twitter).
+   - Registration is mandatory for accessing specific features. While customer registration is free, shop owners are required to pay 5000 BDT for registration.
+
+2. **Search Functionality**:
+   - Customers can search for nearby automobile repair shops based on location or vehicle type.
+
+3. **Booking Services**:
+   - Customers can book repair slots from the service page.
+   - Repair shops display their price charts for transparency in costing.
+   - Customers can select the desired service type and choose whether to have their vehicle picked up or taken to the repair shop.
+
+4. **Support Page**:
+   - Customers can provide suggestions or lodge complaints through the support page.
+
+5. **Notifications**:
+   - Customers receive notifications upon booking a slot.
+   - Shop owners are notified when a customer books a repair slot.
+
+6. **Fraud Detection and Prevention**:
+   - The system identifies and removes fake customers and shop owners from the website.
+   - Users connected with fraudulent accounts are notified about the actions taken.
+
+### Additional Notes:
+- Shop owners are required to pay a 10% commission to the system on each repair work, establishing a revenue model for the platform.
+- The platform emphasizes transparency and communication between customers and repair shops through features such as price charts and support for feedback and complaints.
 
 
 
