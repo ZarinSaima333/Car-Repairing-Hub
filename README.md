@@ -42,6 +42,13 @@ This project entails the development of a website, Car Repairing Hub, aimed at f
 - Shop owners are required to pay a 10% commission to the system on each repair work, establishing a revenue model for the platform.
 - The platform emphasizes transparency and communication between customers and repair shops through features such as price charts and support for feedback and complaints.
 
+### Tech_Stack:
+1.HTML
+2.CSS
+3.JAVASCRIPT
+4.PHP
+5.MYSQL for DataBase
+ 
 
 
 
